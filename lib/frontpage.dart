@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+// ignore: depend_on_referenced_packages
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 class FrontPage extends StatelessWidget {
@@ -87,7 +88,7 @@ class FrontPage extends StatelessWidget {
                             ),
                             SizedBox(height: 6),
                             Text(
-                              "Mobile Devloper",
+                              "Mobile Developer",
                               style: TextStyle(
                                 fontWeight: FontWeight.bold,
                                 fontSize: 15,
