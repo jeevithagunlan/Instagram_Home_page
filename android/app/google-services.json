@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "880936265935",
+    "project_id": "newprg-1e6f6",
+    "storage_bucket": "newprg-1e6f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880936265935:android:4aac311cbb7ab090c42fba",
+        "android_client_info": {
+          "package_name": "com.jee.tha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmeJTXxMy2FtR3C071SUiDCimWldCmqIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
